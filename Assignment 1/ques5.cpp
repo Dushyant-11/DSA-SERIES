@@ -5,5 +5,6 @@ int main () {
     char ch;
     cout << "Enter your character : ";
     cin >> ch;
-    cout >> 
+    cout << "ASCII value of " << ch << "is " << int(ch) << endl;
+    return 0;
 }
