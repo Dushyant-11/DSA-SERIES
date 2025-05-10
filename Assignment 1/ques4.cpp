@@ -10,7 +10,7 @@ int main () {
     cout << "Enter time for which the money is invested or borrowed (in years) : ";
     cin >> t;
     SI=(p*r*t)/100;
-    cout << SI << endl;
+    cout << "Simple Interest = " << SI << endl;
 
     return 0;
 
